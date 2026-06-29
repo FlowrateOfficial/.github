@@ -12,7 +12,7 @@ Independent · Household · Family · Company — separate spaces, same calm das
 
 <br />
 
-[![Website](https://img.shields.io/badge/Website-flowrate.app-00DC82?style=for-the-badge)]([https://flowrate.app](https://flowrate-app.vercel.app))
+[![Website](https://img.shields.io/badge/Website-flowrate--app.vercel.app-00DC82?style=for-the-badge)](https://flowrate-app.vercel.app)
 [![Nuxt 4](https://img.shields.io/badge/Nuxt-4-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)](https://nuxt.com)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
